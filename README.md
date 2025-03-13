@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Nimantha Fernando 👋
 
-<!--
-**nimanthaF/nimanthaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about software development, open-source contributions, and continuous learning. Here you will find a collection of my projects, contributions, and areas of interest.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on full-stack web development projects.
+- 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
+- 💬 Ask me about web development, JavaScript, and cloud technologies.
+- 📫 How to reach me: [Email](mailto:nimantha.fernando@example.com) | [LinkedIn](https://www.linkedin.com/in/nimantha-fernando)
+- ⚡ Fun fact: I love hiking and exploring new places.
+
+## 🛠️ Technologies & Tools
+
+- Languages: JavaScript, Python, Java, SQL
+- Frontend: React, HTML5, CSS3
+- Backend: Node.js, Express, Django, Spring Boot
+- Databases: MongoDB, MySQL, PostgreSQL
+- Cloud: AWS
+- Tools: Git, VSCode, Postman, JIRA
+
+## 📈 GitHub Stats
+
+![Nimantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimanthaF&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimantha-fernando)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nimanthaF)
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
