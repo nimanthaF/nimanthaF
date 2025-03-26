@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I am passionate about software development, open-s
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
 - 💬 Ask me about web development, JavaScript, and cloud technologies.
 - 📫 How to reach me: [Email](mailto:nimanthaferd@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nimanthaf/)
-- ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 🛠️ Technologies & Tools
 
