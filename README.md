@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nimanthaF.nimanthaF" />
 # Hi there, I'm Nimantha Fernando 👋
 
 Welcome to my GitHub profile! I am passionate about software development, open-source contributions, and continuous learning. Here you will find a collection of my projects, contributions, and areas of interest.
